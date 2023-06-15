@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg" align="left"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Roman+Shinkarenko" alt="Typing SVG" /></a>
 <br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
