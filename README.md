@@ -11,8 +11,7 @@
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RomanShinkarenko)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romka94shinkarenko@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/роман-шинкаренко-bb402b254)
-
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D1%88%D0%B8%D0%BD%D0%BA%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE-bb402b254/)
 <br>
 
 ### Tech Stack
