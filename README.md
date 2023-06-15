@@ -1,4 +1,4 @@
-<a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Roman+Shinkarenko" alt="Typing SVG" /></a>
+<a target="_blank" href="https://t.me/RomanShinkarenko"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Roman+Shinkarenko" alt="Typing SVG" /></a>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   I'm a frontend developer specializing in <strong>React and Redux</strong>.<br>
