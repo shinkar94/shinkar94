@@ -6,9 +6,10 @@
   That's why I like to make things that make a difference.
   <br/>
   <hr/>
-  
-<h3>Contact me:</h3>
-  
+* 🌍  I'm based in Borisov
+* 🖥️  See my portfolio at [shinkar94.github.io/Portfolio](http://shinkar94.github.io/Portfolio)
+* 🤝  I'm open to collaborating on interesting projects  
+<h3>Contact me:</h3> 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RomanShinkarenko)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romka94shinkarenko@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D1%88%D0%B8%D0%BD%D0%BA%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE-bb402b254/)
