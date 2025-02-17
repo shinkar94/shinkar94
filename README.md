@@ -7,7 +7,7 @@
 <hr/>
 
 * 🌍  I'm based in Borisov
-* 🖥️  See my portfolio at [shinkar94.github.io/Portfolio]([http://shinkar94.github.io/Portfolio](https://next-portfolio-tau-jade.vercel.app/)
+* 🖥️  See my portfolio at ([https://next-portfolio-tau-jade.vercel.app/])
 * 🤝  I'm open to collaborating on interesting projects  
 <h3>Contact me:</h3>
 
