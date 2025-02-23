@@ -6,7 +6,7 @@
 <br/>
 <hr/>
 
-* 🌍  I'm based in Borisov
+* 🌍  I'm based in Minsk
 * 🖥️  See my portfolio at ([https://next-portfolio-tau-jade.vercel.app/])
 * 🤝  I'm open to collaborating on interesting projects  
 <h3>Contact me:</h3>
